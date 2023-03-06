@@ -1,0 +1,23 @@
+/* NAVBAR */
+
+.navbar {
+    background-color: aliceblue;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-weight: 500;
+}
+
+.navbar-collapse {
+    align-items: center;
+    justify-content: space-between;
+}
+
+#imgLogo{
+    height: 40px;
+    margin-top: 8px;
+    margin-left: 7px;
+} 
+
+.nav-item {
+    padding: 30px;
+}
